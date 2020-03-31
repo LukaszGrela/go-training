@@ -13,6 +13,6 @@ func toMarsYears(age float32) float32 {
 func main() {
 	myWeightKg := float32(63.0)
 
-	fmt.Printf("My weigt on the surface of Mars is %vkg", toMarsWeight(myWeightKg))
+	fmt.Printf("My weight on the surface of Mars is %vkg", toMarsWeight(myWeightKg))
 	fmt.Printf(" and I would be %v years old.\n", toMarsYears(41))
 }
