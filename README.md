@@ -29,3 +29,6 @@ Lesson 14 - passing function as paramter
 
 ### temperature-tables
 Lesson 15 - Capstone: Temperature convertion tables
+
+## 7 - arrays
+Lesson 16 - chess board experiment
