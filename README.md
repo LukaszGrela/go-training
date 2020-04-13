@@ -17,3 +17,6 @@ Lesson 9-11 - Working with strings
 ## functions
 
 Lesson 12 - Identify the parts of a function declaration, write reusable functions to build up larger programs
+
+## methods
+Lesson 13 - method declaration
