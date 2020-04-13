@@ -2,21 +2,30 @@
 
 Go Language training files
 
-## hello-mars
+## 1 - hello-mars
 
 Lesson 2 - First steps in GO
 
-## guess-the-number
+## 2 - guess-the-number
 
 Lesson 3 - Experiment - Write a guess-the-number program. Computer picks the number 0..100, User via stdin tries to guess.
 
-## cipher
+## 3 - cipher
 
 Lesson 9-11 - Working with strings
 
-## functions
+## 4 - functions
 
 Lesson 12 - Identify the parts of a function declaration, write reusable functions to build up larger programs
 
-## methods
+## 5 - methods
+
 Lesson 13 - method declaration
+
+## 6 - First-class Functions
+
+### function-parameter
+Lesson 14 - passing function as paramter
+
+### temperature-tables
+Lesson 15 - Capstone: Temperature convertion tables
