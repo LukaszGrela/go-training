@@ -13,8 +13,8 @@ func kelvinToFahrenheit(k float64) float64 {
 }
 
 func main() {
-	// Keyword Func
-	//         Name  Parameter  result
+	//         Func
+	// Keyword Name  Parameter  result
 	//  func   Intn   (n  int)    int
 	//               name type   type
 	//
