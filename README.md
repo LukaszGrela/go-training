@@ -32,3 +32,11 @@ Lesson 15 - Capstone: Temperature convertion tables
 
 ## 7 - arrays
 Lesson 16 - chess board experiment
+
+## 8 - slices
+### terraform
+Lesson 17 - terraform a slice of strings through method on that slice 
+```
+type Type []string
+func (t Type) terraform()
+```
